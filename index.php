@@ -10,37 +10,21 @@
 
 
 <div class="w3-container">
+
 <hr>
 <div class="w3-cell-row">
   <div class="w3-cell" style="width:30%">
-    <img src="https://cdn2.iconfinder.com/data/icons/people-80/96/Picture1-512.png" style="width:50%">
+    <img src="img/taphmeme.jfif" style="width:50%">
   </div>
   <div class="w3-cell w3-container">
-    <h3><a href="frozen.php">Frozen</a></h3>
-    <p>The response to the animations was ridiculous.</p>
+    <h3><a href="top-funny-watch.php">Top funny videos you want to watch on YouTube</a></h3>
+    <p>These are the list</p>
   </div>
 </div>  
 <hr>
-<div class="w3-cell-row">
-  <div class="w3-cell" style="width:30%">
-    <img src="https://cdn2.iconfinder.com/data/icons/people-80/96/Picture1-512.png" style="width:50%">
-  </div>
-  <div class="w3-cell w3-container">
-    <h3>The Fault in Our Stars</h3>
-    <p>Touching, gripping and genuinely well made.</p>
-  </div>
-</div>
-<hr>
-<div class="w3-cell-row">
-  <div class="w3-cell" style="width:30%">
-    <img src="https://cdn2.iconfinder.com/data/icons/people-80/96/Picture1-512.png" style="width:50%">
-  </div>
-  <div class="w3-cell w3-container">
-    <h3>The Avengers</h3>
-    <p>A huge success for Marvel and Disney.</p>
-  </div>
-</div>
-<hr>
+
+
+
 </div>
 
 
