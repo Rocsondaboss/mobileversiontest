@@ -2,13 +2,12 @@
 <html>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3pro.css">
-<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
+<link rel="stylesheet" href="styles/w3pro.css">
+<link rel="stylesheet" href="styles/w3-theme-red.css">
 
 <body>
-<header class="w3-container w3-card w3-theme">
-  <h1><img src="http://bossraweb.herokuapp.com/img/rabp%20logo.png" style="width:10%"></h1>
-</header>
+<?php include 'includes/header.php';?>
+
 
 <div class="w3-container">
 <hr>
@@ -17,7 +16,7 @@
     <img src="https://cdn2.iconfinder.com/data/icons/people-80/96/Picture1-512.png" style="width:50%">
   </div>
   <div class="w3-cell w3-container">
-    <h3>Frozen</h3>
+    <h3><a href="frozen.php">Frozen</a></h3>
     <p>The response to the animations was ridiculous.</p>
   </div>
 </div>  
@@ -44,8 +43,7 @@
 <hr>
 </div>
 
-<footer class="w3-container w3-theme">
-  <h3>Footer</h3>
-</footer>
+
+<?php include 'includes/footer.php';?>
 
 </body>
