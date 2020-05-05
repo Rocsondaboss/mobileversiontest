@@ -15,40 +15,49 @@
 <div class="w3-cell-row">
 
   <div class="w3-cell w3-container">
-    <h3 style="font-size: 45px;">Frozen</h3>
+    <h3 style="font-size: 45px;">Top funny videos you want to watch on YouTube</h3>
     <div style="text-align: center;">
     </div>
 
     <style>
       h5 {
         font-weight: bold;
+        font-size: 20px;
       }
 
-     
+
     </style>
 
       <h5>1. "Para humahaba ang t*ti ko"</h5>
-        <figure>
+        <!---- <figure>
              <iframe width="560" height="315" src="https://www.youtube.com/embed/Ls1fm3Bram0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
             <figcaption></figcaption>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="img/platk2.PNG" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>This video was uploaded on January 27, 2017 by the uploader xCuts TM showing the boy being interviewed on stage. Set in the unspecified Tagalog-speaking Philippine province, the video shows the emcee first gives the boy question, "Bakit mo siyang paborito mong kainin?" The boy replies, "<i>Gusto ko po mag-artista</i>." The audience responded in laughter. The emcee clarifies the question to the boy by saying what the boy wants to eat. The boy replies, "<i>Gulay</i>" ("Vegetable[s]""). The emcee questions him why the boy wanted to eat vegetables. The boy replies, "<i>Para humaba ang titi ko</i>" ("To grow my penis longer"). The audience laughter becomes hysteric and to the point that the emcee pauses for several seconds before going to the girl beside him to interview her.</p>
 
         <p>As of this writing, the video earns 236 likes and 21 dislikes. Here's the comment below.</p>
 
-        <figure>
+        <!---- <figure>
             <img src="img/youtubecomment_platk.png" alt="" style="width:75%">
             <figcaption></figcaption>
-        </figure>
+        <figure> ---->
 
         <p>Since then, some YouTubers targeted the boy by the memes such as "Thug Life".</p>
 
         <h5>2. "Let it Go" epic fail</h5>
         <p class="text-danger"><b>Warning:</b> Contains crude content!</p>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/6fZwJFjiA0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="img/let-it-go-kid-fail.PNG" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>This 13-second video was uploaded in April 2014 where the kid, from Philippines, singing Disney's <i>Frozen</i> theme song "Let it Go". In the video, we see the kid in the beginning singing chorus of the song, but after the kid coughs twice, the stuff coming out from his nose. The boy did not quickly wipe his stuff out; with the stuff still clinging on it, the boy stops the recording of the video. It is unclear whether the kid covers the song and deliberately expels his stuff from his nose as the meaning of "let it go" or it's just the fail moments.
 
         <p>This video was originated from Facebook source and it was re-uploaded in YouTube. The commentators on the video showing fun and disgusted (but it is funny anyway). His video was even caught attention by the girl (with an American accent) overseas, who lambasted the boy and found it disgusting. Her video was uploaded on YouTube but it was deleted since.</p>
@@ -57,9 +66,14 @@
 
         <h5>3. Jhepoy Dizon</h5>
         <p class="text-danger"><b>Warning:</b> Contains strong language!</p>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/SzOWy1o2dTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="data:image/jpeg;base64,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" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
+
        <p> In this video dated 2013, the boy curses and insults certain person named Jhepoy Dizon via webcam. Here is the transcript of the boy:</p>
 
         <blockquote style="background-color:#dce1e8;font-family:Century Schoolbook;margin-left:14%;margin-right:14%;font-size:19px;"><i>"TANGINA MO, JHEPOY DIZON! ANG PANGIT NG PAGMUMUKHA MO, KITA MO NA BANG MUKHA MO SA SALAMIN? TANGINA MO! ANG PANGIT MO, HA? Tangina mo! At anong ang sinasabi mong pulubi at taga-hugas ako ng pinggan ha? TANGINA MO! Tignan mo nga bahay ko, BILLAGE YAN, eh-a-at ikaw naman, ano ha? Tangina mo skwater? HA? Nagyayabang ka pang may laptop at kita mo to hampas ko to sa pagmumukha mo eh no? Tangina mo, ha, ha? Ano, ha? Lalaban pa ka ha? Tangina mo mag-extend ka na dyan, time ka na eh."</i>
@@ -70,24 +84,32 @@
         <p>Several years after the verbal attack, the background of Jhepoy Dizon was never learned (even searching his name on Google but instead showing the former's face, who insulted Jhepoy).</p>
 
         <h5>4. "Bakit ako matatakot"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/2zARqkkCSXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="https://media.makeameme.org/created/bakit-ako-matatakot.jpg" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>The 2016 GMA News video "Bakit ako matatakot" was used by some online communities. The man named Jun Calumpiano was arrested by the authorities after he reportedly aimed his gun at the neighborhood and then fired it. As he being detained at the police station, the man drunkenly challenges then-President-elect Rodrigo Duterte with the gunplay. The man also said that the gun he used is not licensed.</p>
 
         <h5>5. Taph Taph Taph</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/jZmjZjOGCzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="data:image/jpeg;base64,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" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
                 <p>The video was recorded in a low resolution camera dated 2013 showing the man apparently diagnosed with <a href="https://en.wikipedia.org/wiki/Down_syndrome">Down's syndrome</a> competing with a muted boy (who speaks vaguely) in what was called the "rap battle." Set in unspecified Philippine province, during the course of a "battle", the two exchanges words and they are being ridiculed by the tricycle drivers and other bystanders, especially towards the boy. The boy even sweep the camera towards him, probably because the recorder is in favor to the man, and appears to express the unfairness of the "battle".</p>
 
                 <p>Minutes later, the man approaches the boy and appears to demand the boy an apology; when the boy continues to speak, the man pushes him. The man finishes his monologue by taunting the boy. The video ends with a boy speaking towards the camera disappointed. The video came into prominence in 2018 and the man mainly becomes the subject of the memes.</p>
 
                 <h5>6. Man smashes TV</h5>
                 <p class="text-danger"><b>Warning:</b> Contains strong language!</p>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/lH24q3aV5gI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
         <p>The video showing the black man angrily smashes the flat-screen TV after Golden State Warriors loses the game against the Houston Rockets in during the Western Conference Semi-Finals of <a href="https://en.wikipedia.org/wiki/2019_NBA_playoffs">2019 NBA playoffs</a>.</p>
 
         <p>In this video, the man has just placed the bet for the Golden State Warriors but things get worse when GSW loses the game against Rockets, therefore loses much of his money. The man angrily smashes the TV while angrily saying "F*ck you [Stephen] Curry! B***h!". Another man tries to comfort the man by saying "It's just a game" but the latter pushes him out of the room. The man then smashes another flat-screen TV, which also inadvertently drops another TV beside it.</p>
@@ -95,91 +117,123 @@
         <p>Ultimately, the GSW advanced the series to compete with Portland Trail Blazers at the Conference Finals, which the GSW won to advance the Finals. GSW loses the game against Toronto Raptors.</p>
 
         <h5>7. Totoy Abnoy laughter</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/BuphVFjcIfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
         <p>This out-of-mind man known only as "Totoy Abnoy" have made a series of videos containing nonsensical dialogues. This example above is the man talking about his intentions of "stabbing everybody", "killing everybody", "kidnapping Kikay" and "Marie", and warns that to "get ready" and to "hide". He ends his monologue by laughing hysterically.</p>
 
         <h5>8. "Wala na, finish na"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/_pWuIbaBPTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="data:image/jpeg;base64,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" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>The "Wala na, finish na" quote was used by alleged 25-year-old drug-addict Bethoven Delmar, Jr. This December 2015 News5 video report states that the man was arrested in Cubao after he invaded the home and raped one of the girls. The man says that he was under the influence of drugs and alcohol when he made the crime. When he invaded the home, he grabbed the knife and threatened to stab her if she refuses to quiet. The man also added that rape is his "hobby".</p>
 
         <p>He also said that he is lucky to be alive when Duterte did not yet to be seated as the President, and when Duterte is now the president, he says "Wala na, finish na" ("It's gone, it's over"). The man becomes the subject by the online communities.</p>
 
         <h5>9. Taste the feeling</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/7XX9P-7OcGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
         <p>This video showing the boy sipping some of the contents of 1-liter Coca-Cola bottle, accompanied by official Coca-Cola theme song "Taste the Feeling" by Avicii and Conrad Sewell.</p>
 
         <h5>10. "Tae ng kalabaw" on Wowowin</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/hy3xdRbMfxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
         <p>In this September 6, 2016 Wowowin episode, a contestant from Antipolo has been given a question by the host Willie Revillame. The question is "<i>Sa history, si Neil Armstrong ang unang tao na nakatapak sa anong lugar?</i>" ('In history, Neil Armstrong was the first person to step on what place?"). The woman does not know the answer. Willie gives a hint of the question that Neil was traveled through spaceship and that even was witness by the whole world. After the host persuades her to guess the answer, she answers "<i>tae ng kalabaw</i>" ("feces of buffalo"), making Willie to laugh uncontrollably. The real answer is the moon.</p>
 
         <p>Neil Armstrong was the first person to walk on the moon, along with fellow astronaut Buzz Aldrin, on July 20, 1969 as part of the NASA program, Apollo 11.</p>
 
         <h5>11. "Pinoy Battousai"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/bUJWL2LU7yQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="https://i.ytimg.com/vi/ppioEEvJj-w/maxresdefault.jpg" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>Came from April 28, 2016 GMA News report, a man was dubbed as "Pinoy Battousai" after he used bolo to attack his friend. According to the report, the incident was captured on CCTV, where it shows the man named Chris Bautista taking care of his grandson, unaware that the imminent danger is coming for him. Seconds later, another man named Valentino Abiertas approaches with a bolo and attacks him. The children around them witness the incident in shock.</p>
 
         <p>The two are later brought to the Barangay Captain's office. Bautista luckily did not injured in the attack, thanks for the "guardian angel" at his back. Abiertas explains that he used the bolo in opposite way, imitating Battousai (another name for <a href="https://en.wikipedia.org/wiki/Himura_Kenshin">Himura Kenshin</a>), a Japanese character from <i>Rurouni Kenshin</i>. The motive for the attack was money issues. The two eventually reconciled.</p>
 
         <h5>12. Japer Sniper's "So weird"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/sbkSic4bfrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="https://i.ytimg.com/vi/sbkSic4bfrQ/maxresdefault.jpg" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>In the video, a man in the car who curiously said, especially the girl driver, that how will they drive their car with the right hand holding the clutch of the car. He said "<i>Kayo mga girls, kung kayo magda-drive nito, paano niyo hahawakan yung kambyo</i>." As he holds the clutch, he childishly chuckles like the dolphin.</p>
 
         <h5>13. "Kademonyohan ng aking kamay"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/8qX7slpTz08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="https://i.ytimg.com/vi/8qX7slpTz08/hqdefault.jpg" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>A man Edwardo Valencio was arrested by the authorities for touching the two girls inside the jeepney. While being interviewed on his cell, he blames his "demonic" hand for the act. The man also admitted that he possessed illegal drugs. He is charged for acts of lasciviousness.</p>
 
         <h5>14. "Mga bobo"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/EGq3yxJmBRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="https://i.imgflip.com/2l77jx.jpg" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>"<i>Mga bobo</i>" was used by lawyer Larry Gadon during the demonstration in support of Maria Lourdes Sereno - who was faced by the quo warranto petition filed by Solicitor General Jose Calida - on April 9, 2018 in Baguio City. Sereno would be removed by Supreme Court on May 11, 2018, which triggered massive condemnation and protests. The incident was originally uploaded by Rappler, which earned more likes. Since then, Gadon becomes the target of the memes, with some used it against the opposition of the Duterte administration (<a href="https://www.youtube.com/watch?v=4rp-MRS0LFw&t=44s">See here</a>).</p>
 
         <h5>15. "You're road, you know?"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/070fjeBIenY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+            <figure>
+        <img src="https://i.ytimg.com/vi/TTt4O3ephDA/maxresdefault.jpg" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>Unlike most of the videos were captured on low resolution camera, this one originally came from American TV channel TLC's 90 Day Fiance, which shows Filipino girl named Jenny and her family preparing a lechon for her American partner named Larry. However, it seems that Jenny becomes disappointed when Larry apparently "snub" the lechon. Jenny walks out and Larry tries to explain what's the matter, but she tells him that "you're rude". However, her pronunciation of "rude" is "road", making her the target of the memes.</p>
 
         <p>Jenny was later <a href="https://www.youtube.com/watch?v=F5v7omlha5w">featured on GMA's <i>Kapuso Mo, Jessica Soho</i> episode dated April 23, 2018</a>, explaining the relationship and the circumstances of walking out from him.</p>
 
         <h5>16. DotA trashtalk</h5>
         <p class="text-danger"><b>Warning:</b> Contains strong language!</p>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/NqNXqMOc2Ok?start=158" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
         <p>A low-resolution video showing the man in red shirt trashtalks other players by yelling "<i>P****g ina</i>" ("Motherf****r") while playing Defense of the Ancients (DotA) on his workstation. The man then continues to throw insults.</p>
 
         <h5>17. "P****g ina, ano ba 'ito!"</h5>
         <p class="text-danger"><b>Warning:</b> Contains brief strong language!</p>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/6TldszXmG80?start=158" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
         <p>In this video shows then-Senator Mar Roxas made a speech at the anti-<a href="https://en.wikipedia.org/wiki/Constitutional_reform_in_the_Philippines">charter change</a> (Cha-cha) rally held in Makati on December 12, 2008. After slamming then-President Gloria Macapagal Arroyo and her cabinet mainly for corruption and poverty, he ended his speech by shouting "P****g ina, ano ba 'ito" ("Son of a b*tch, what is this!").</p>
    
         <h5>18. "Paano mo nasabi?"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/dt86cWk9Yk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="https://www.jokespinoy.com/wp-content/uploads/2018/11/Paano-Mo-Nasabi.jpg" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>The phrase "<i>Paano mo nasabi?</i>" ("How can you tell?") was used by the man named <a href="https://www.youtube.com/watch?v=oIv4VkIRXpo">Robert Nocos</a> on October 2018. After he was arrested for allegedly stabbing a cashier and killing a waitress after she refused to have an intercourse with him, the man dodges question by the media by merely saying "<i>Paano mo nasabi?</i>". That phrase was born and it was used by many YouTubers for their memes.</p>
 
         <h5>19. "Obvious ba"</h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/QADzAhcuP-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
+          <figure>
+        <img src="data:image/jpeg;base64,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" alt="" style="width:27%">
+        <figcaption></figcaption>
+    </figure>
         <p>The phrase "Obvious <i>ba</i>" by unnamed woman who slept inside the transportation bus without the driver's permission. Came from original News5 video, the report states that the van's driver named Julius Decena discovers the woman along with his son board the van while waiting for another passengers at Taft Avenue, Pasay. Decena attempts to get the woman out of the van but the woman bursts in tears. Shortly, the woman falls asleep. The News5 reporter intervenes the woman but she replies "Bakit ka nag-istorbo ka na tulog?". The reporter asks her "Galit ka ba?", to which she replies "Obvious ba". After getting help from the police to take care of the woman, they brought the woman and the child to Bahay Silungan in NAIA.</p>
 
         <p>To this day, the woman's true intention and her identity was uncertain.</p>
@@ -187,9 +241,9 @@
         <h5>20. "Tito" Badang</h5>
         
         <h5></h5>
-        <figure>
+        <!---- <figure>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/1jPeMx0mJeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+        <figure> ---->
         <p></p>
 
         <p>The video, recorded in a style of first-person perspective, dated 2018 showing the FlipTop rapper Badang being berated by the man for allegedly raping the man's daughter at her room while drunk. After the heated wrath, the next video showing Badang having brought by the man to the barangay hall where the victim explains the Badang's crime to the officials. The man decides to file the case against Badang and he is seen entering at the cell.</p>
